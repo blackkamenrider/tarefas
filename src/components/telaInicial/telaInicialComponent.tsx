@@ -19,11 +19,11 @@ import { useDispatch, useSelector } from 'react-redux';
 import  { addItemNaListaTarefa, concludedTask, deleteItemInListConcluded, deleteItemInListTask, openModalAddTarefa, openModalTipoDeTarefa, selectTypeTarefas, updateItemInListTask } from '../testes/redux/todosSlice';
 import Tarefas from '../tarefas/tarefasComponent';
 import ModalTipoDeTarefa from '../modais/modalTiposDeTarefas/modalTipoDeTarefa';
+import timerId from '../../componenteFuncional/despertadorComponent';
+import BackgroundTimer from 'react-native-background-timer';
 // import { initialState, reducer } from '../testes/context/separandoAqruivoContext';
 
-
   //################################  INICIA REDUX  ##################### 
-  
   
   //   const dispatch = useDispatch();
   
@@ -72,7 +72,11 @@ export default function TelaInicial() {
   
   useEffect( () => {
     // configuracao.todo.tipoDeTarefas === typeTheList.LIST_TAREFAS
-    
+
+    console.log(" timerId :", timerId )
+
+    BackgroundTimer.start(timerId);
+
     let teste2 =  configuracao.todos.tipoDeTarefas;
 
     if( configuracao.todos.tipoDeTarefas === typeTheList.LIST_TAREFAS  ){

@@ -9,6 +9,7 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\perfe
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\perfect\.gradle\caches\transforms-3\d583b133a68ceecad4ecdddb740e6639\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\perfect\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:8:1-18:12
 MERGED from [:react-native-community_checkbox] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\@react-native-community\checkbox\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-background-timer] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\react-native-background-timer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-date-picker] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-material-datetime-picker] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\react-native-material-datetime-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-android:0.71.6] C:\Users\perfect\.gradle\caches\transforms-3\e130ab6804e166a1486f733ffc21e975\transformed\jetified-react-android-0.71.6-debug\AndroidManifest.xml:2:1-11:12
@@ -188,6 +189,8 @@ MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\perfect\.gradle\cach
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\perfect\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [:react-native-community_checkbox] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\@react-native-community\checkbox\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_checkbox] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\@react-native-community\checkbox\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-background-timer] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\react-native-background-timer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-background-timer] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\react-native-background-timer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-date-picker] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-date-picker] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-material-datetime-picker] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\react-native-material-datetime-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
@@ -346,6 +349,10 @@ uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\perfect\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\perfect\.gradle\caches\transforms-3\236929aa564a4c4dfa1b417642a2a2ae\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-background-timer] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\react-native-background-timer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:react-native-background-timer] D:\UDEMY\projetos\Lista de Tarefas\Tarefas\node_modules\react-native-background-timer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-65
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\perfect\.gradle\caches\transforms-3\30102b16e64b2b966e993f978f0d77f3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\perfect\.gradle\caches\transforms-3\168829b299da31b5f39d19c1353bb79f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

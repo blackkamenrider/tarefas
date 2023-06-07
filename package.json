@@ -21,6 +21,7 @@
     "react-native-date-picker": "^4.2.12",
     "react-native-material-datetime-picker": "^0.2.1",
     "react-native-select-dropdown": "^3.3.3",
+    "react-native-sound": "^0.11.2",
     "react-redux": "^8.0.5",
     "redux": "^4.2.1"
   },
@@ -34,6 +35,7 @@
     "@types/jest": "^29.2.1",
     "@types/react": "^18.0.24",
     "@types/react-datepicker": "^4.10.0",
+    "@types/react-native-background-timer": "^2.0.0",
     "@types/react-test-renderer": "^18.0.0",
     "babel-jest": "^29.2.1",
     "eslint": "^8.19.0",
