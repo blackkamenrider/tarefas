@@ -17,6 +17,7 @@
     "react": "18.2.0",
     "react-datepicker": "^4.11.0",
     "react-native": "0.71.6",
+    "react-native-background-timer": "^2.4.1",
     "react-native-date-picker": "^4.2.12",
     "react-native-material-datetime-picker": "^0.2.1",
     "react-native-select-dropdown": "^3.3.3",
